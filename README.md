@@ -5,7 +5,7 @@ I'm a student currently studying Computer Science with Cyber Security at the Uni
 I also create write-ups for HackTheBox machines. You can find my detailed breakdowns below, where I analyse the full attack chain from initial reconnaissance to final privilege escalation.
 
 *   **TwoMillion**
-    *   ➡️ **[Read the full write-up here](https://dash-ratcliffe.github.io/writeups/TwoMillion.html)*
+    *   ➡️ **[Read the full write-up here](https://dash-ratcliffe.github.io/writeups/TwoMillion.html)**
 
 *(More write-ups to come!)*
 
