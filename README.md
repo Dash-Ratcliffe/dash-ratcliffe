@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hi, I'm Dashiell (Dash)
 
-<!--
-**Dash-Ratcliffe/dash-ratcliffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student currently studying Computer Science with Cyber Security at the University of York.
 
-Here are some ideas to get you started:
+I also create write-ups for HackTheBox machines. You can find my detailed breakdowns below, where I analyse the full attack chain from initial reconnaissance to final privilege escalation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **TwoMillion**
+    *   ➡️ **[Read the full write-up here](https://dash-ratcliffe.github.io/writeups/TwoMillion.html)*
+
+*(More write-ups to come!)*
+
+---
+You can find me on:
+*   **LinkedIn:** [linkedin.com/in/dashratcliffe](https://www.linkedin.com/in/dashratcliffe)
+*   **Personal Website:** [dashiell.co.uk](https://www.dashiell.co.uk)
